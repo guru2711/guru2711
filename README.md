@@ -19,4 +19,4 @@
 
 
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=guru2711&repo=github-readme-stats)](https://github.com/guru2711/github-readme-stats)
+
