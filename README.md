@@ -11,7 +11,7 @@
 - 📫 How to reach me: ...https://www.linkedin.com/in/guru-prakash/
 - ⚡ Fun fact: ...ask me about Technologies, premier league, Messi, 
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=guru2711&theme=gradient&show_icons=true)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=guru2711&theme=tokyonight &show_icons=true)
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=guru2711&hide=html)](https://github.com/guru2711/github-readme-stats)
