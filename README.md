@@ -13,8 +13,8 @@
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=guru2711&theme=radical&show_icons=true)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=guru2711&layout=compact)](https://github.com/guru2711/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=guru2711&hide=javascript,html)](https://github.com/guru2711/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=guru2711&hide=html)](https://github.com/guru2711/github-readme-stats)
 
 
 
