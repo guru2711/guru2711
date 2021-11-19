@@ -14,7 +14,7 @@
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=guru2711&theme=tokyonight&show_icons=true)
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=guru2711&hide=html)](https://github.com/guru2711/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=guru2711&hide=html&theme=tokyonight&show_icons=true)](https://github.com/guru2711/github-readme-stats)
 
 
 
