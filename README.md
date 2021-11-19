@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-**guru2711/guru2711** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 
 
 
@@ -9,7 +9,6 @@
 - 🌱 I’m currently learning ...mern stack
 - 💬 Ask me about ...React, Node.js, Mern stack
 - 📫 How to reach me: ...https://www.linkedin.com/in/guru-prakash/
-- 😄 Pronouns: ...Guru
 - ⚡ Fun fact: ...ask me about Technologies, premier league, Messi, 
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=guru2711&theme=radical&show_icons=true)
