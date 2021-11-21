@@ -2,7 +2,8 @@
 
 
 
-![develop-your-mern-stack-web-application](https://user-images.githubusercontent.com/59472229/142756898-98750edb-5458-40b9-97c0-00ab0bc6f1b7.jpg)
+
+![develop-your-mern-stack-web-application](https://user-images.githubusercontent.com/59472229/142756932-9d8dd4b1-a740-45b0-aa08-29a8e0c63729.jpg)
 
 
 
