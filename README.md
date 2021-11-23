@@ -15,7 +15,8 @@
 
 
                              ### resume
-                             [Guru's Resume(2021)pdf.pdf](https://github.com/guru2711/guru2711/files/7585853/Guru.s.Resume.2021.pdf.pdf)
+                             [Guru's Resume(2021)pdf.pdf](https://github.com/guru2711/guru2711/files/7585854/Guru.s.Resume.2021.pdf.pdf)
+
 
                              
 
