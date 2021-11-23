@@ -1,7 +1,7 @@
-                                                          ### Hi there 👋 #I'm Guru
+                                                          ### Hi there 👋 I'm Guru
 
 
-
+#say hi
 
 ![develop-your-mern-stack-web-application](https://user-images.githubusercontent.com/59472229/142756932-9d8dd4b1-a740-45b0-aa08-29a8e0c63729.jpg)
 
@@ -15,7 +15,7 @@
 
 
                              ###    #resume
-                            #https://drive.google.com/file/d/1eEfjArejCz48cxZGlVvn99QDqF9dCx5g/view?usp=sharing
+                            https://drive.google.com/file/d/1eEfjArejCz48cxZGlVvn99QDqF9dCx5g/view?usp=sharing
 
 
                              
