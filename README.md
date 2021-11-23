@@ -1,4 +1,4 @@
-                                                          ### Hi there 👋 I'm Guru
+                                                          ### Hi there 👋 #I'm Guru
 
 
 
@@ -14,8 +14,8 @@
 - ⚡ Fun fact: ...ask me about Technologies, premier league, Messi, 
 
 
-                             ### resume
-                            https://drive.google.com/file/d/1eEfjArejCz48cxZGlVvn99QDqF9dCx5g/view?usp=sharing
+                             ###    #resume
+                            #https://drive.google.com/file/d/1eEfjArejCz48cxZGlVvn99QDqF9dCx5g/view?usp=sharing
 
 
                              
