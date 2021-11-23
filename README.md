@@ -1,7 +1,7 @@
                                                           ### Hi there 👋 **I'm Guru**
 
 
-#**say hi**
+**say hi**
 
 ![develop-your-mern-stack-web-application](https://user-images.githubusercontent.com/59472229/142756932-9d8dd4b1-a740-45b0-aa08-29a8e0c63729.jpg)
 
