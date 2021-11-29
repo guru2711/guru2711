@@ -32,7 +32,7 @@
 
 
 # Projects
-<img width="282" src="https://contact-savings.netlify.app/pin?username=guru2711&repo=contact-saving-front&theme=react&bg_color=273849&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="github-readme-streak-stats">
+<img width="282" src="https://contact-savings.netlify.app/api/pin?username=guru2711&repo=contact-saving-front&theme=react&bg_color=273849&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="github-readme-streak-stats">
                              ###    resume
                             https://drive.google.com/file/d/1eEfjArejCz48cxZGlVvn99QDqF9dCx5g/view?usp=sharing
 
