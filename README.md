@@ -2,6 +2,7 @@
                                                           
                                                           # Hi there 👋 I'm Guru
 
+[<img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" />](https://github.com/guru2711) [<img alt="Github" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/saiguruprakash)
 
 
 ![develop-your-mern-stack-web-application](https://user-images.githubusercontent.com/59472229/142756932-9d8dd4b1-a740-45b0-aa08-29a8e0c63729.jpg)
@@ -31,9 +32,7 @@
 
 
 
-# Projects
-<img width="282" src="https://contact-savings.netlify.app/api/pin?username=guru2711&repo=contact-saving-front&theme=react&bg_color=273849&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="github-readme-streak-stats">
-<img width="282" src="https://contact-savings.netlify.app/api/pin/?username=guru2711&repo=https://github.com/guru2711/contact-saving-front&theme=react&bg_color=273849&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="github-readme-streak-stats">
+
                              ###    resume
                             https://drive.google.com/file/d/1eEfjArejCz48cxZGlVvn99QDqF9dCx5g/view?usp=sharing
 
@@ -48,6 +47,12 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=guru2711&hide=html&theme=tokyonight&show_icons=true)](https://github.com/guru2711/github-readme-stats)
 
 
+
+
+<p align="center"> © 2021 Guru, all rights reserved. Made with ❤️ for a better web. </p>
+<p align="center">
+Coming Soon...
+</p>
 
 
 
