@@ -15,6 +15,9 @@
 - ⚡ Fun fact: ...ask me about Technologies, premier league, Messi, 
 
 
+#Tools & Technologies
+
+
                              ###    resume
                             https://drive.google.com/file/d/1eEfjArejCz48cxZGlVvn99QDqF9dCx5g/view?usp=sharing
 
