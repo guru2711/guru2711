@@ -15,9 +15,8 @@
 - ⚡ Fun fact: ...ask me about Technologies, premier league, Messi, 
 
 
-
  # Tools & Technologies
-
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
 
 
                              ###    resume
