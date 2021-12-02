@@ -54,7 +54,7 @@
 
 <p align="center"> © 2021 Guru, all rights reserved. Made with ❤️ for a better web. </p>
 <p align="center">
-Portfolio Coming Soon...
+https://guruprakash.herokuapp.com/
 </p>
 
 
