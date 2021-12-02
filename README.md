@@ -12,7 +12,7 @@
 
 
 
-- 🌱 I’m currently learning ...mern stack
+- 🌱 I’m currently learning and developing  ...mern stack projects
 - 💬 Ask me about ...React, Node.js, Mern stack
 - 📫 How to reach me: ...https://guruprakash.herokuapp.com/
 - ⚡ Fun fact: ...ask me about Technologies, premier league, Messi, 
