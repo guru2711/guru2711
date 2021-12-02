@@ -34,10 +34,10 @@
 # resume
 
 
+                  [<img alt="Github" src="https://img.shields.io/badge/resume-%231DA1F2.svg?&style=for-the-badge&logo=resume&logoColor=white" />]( https://drive.google.com/file/d/1nwp3spB7_u7KwEJV7LlTQqH14cyOh3OA/view?usp=sharing)            
                              
                              
-                             
-                          https://drive.google.com/file/d/1nwp3spB7_u7KwEJV7LlTQqH14cyOh3OA/view?usp=sharing
+                         
 
 
                              
