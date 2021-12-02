@@ -31,11 +31,9 @@
   <img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white" />
   </p>
 
-# resume
 
 
-                  [<img alt="Github" src="https://img.shields.io/badge/resume-%231DA1F2.svg?&style=for-the-badge&logo=resume&logoColor=white" />]( https://drive.google.com/file/d/1nwp3spB7_u7KwEJV7LlTQqH14cyOh3OA/view?usp=sharing)            
-                             
+        
                              
                          
 
