@@ -14,7 +14,7 @@
 
 - 🌱 I’m currently learning ...mern stack
 - 💬 Ask me about ...React, Node.js, Mern stack
-- 📫 How to reach me: ...https://www.linkedin.com/in/guru-prakash/
+- 📫 How to reach me: ...https://guruprakash.herokuapp.com/
 - ⚡ Fun fact: ...ask me about Technologies, premier league, Messi, 
 
 
