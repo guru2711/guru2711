@@ -1,6 +1,6 @@
                                                           
                                                        
-  # Hi, I'm <img src="https://tenor.com/view/quby-chan-hi-wave-hello-hi-there-gif-17010845" width="100" height="100">   Guru   
+  # Hi, I'm <img src="https://user-images.githubusercontent.com/25294734/88898294-b4d42f80-d276-11ea-8f7e-749b0633c536.gif" width="100" height="100">   Guru   
 
                  
 
