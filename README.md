@@ -1,6 +1,7 @@
                                                           
                                                        
-  # Hi, I'm ![quby-chan-hi](https://user-images.githubusercontent.com/59472229/145668848-a995e45a-6eb8-41e9-8d45-0c070db12731.gif)   Guru   
+  # Hi, I'm ![wave](https://user-images.githubusercontent.com/59472229/145668915-00d59306-5265-4cf9-bdce-1423089e0422.gif)   Guru   
+
                  
 
 # you can find me 👇🏼
