@@ -1,6 +1,6 @@
                                                           
                                                        
-  # Hi, I'm <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" width="100" height="100">   Guru   
+  # Hi, I'm <img src="https://tenor.com/view/quby-chan-hi-wave-hello-hi-there-gif-17010845" width="100" height="100">   Guru   
 
                  
 
