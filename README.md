@@ -1,6 +1,6 @@
                                                           
                                                        
-  # Hi, I'm ![wave](https://user-images.githubusercontent.com/59472229/145668915-00d59306-5265-4cf9-bdce-1423089e0422.gif width="250" height="250")   Guru   
+  # Hi, I'm ![test image size]<img src="https://fullpath/assets/yourgif.gif" width="400" height="790">   Guru   
 
                  
 
