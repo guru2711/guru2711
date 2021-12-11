@@ -1,6 +1,6 @@
                                                           
                                                        
-  # Hi, I'm <img src="https://user-images.githubusercontent.com/25294734/88898294-b4d42f80-d276-11ea-8f7e-749b0633c536.gif" width="100" height="100">  Guru  
+  # Hi, I'm <img src="https://user-images.githubusercontent.com/25642379/89112043-60fe4d80-d412-11ea-920f-aa722997007a.gif" width="100" height="100">  Guru  
 
                  
 
