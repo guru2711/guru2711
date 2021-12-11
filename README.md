@@ -1,7 +1,7 @@
                                                           
                                                        
-  # Hi, I'm ![quby-chan-hi](https://user-images.githubusercontent.com/59472229/145668848-a995e45a-6eb8-41e9-8d45-0c070db12731.gif)
-  Guru                    
+  # Hi, I'm ![quby-chan-hi](https://user-images.githubusercontent.com/59472229/145668848-a995e45a-6eb8-41e9-8d45-0c070db12731.gif)   Guru   
+                 
 
 # you can find me 👇🏼
 [<img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" />](https://github.com/guru2711) [<img alt="Github" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/saiguruprakash) 
