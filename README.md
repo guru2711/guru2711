@@ -1,6 +1,6 @@
                                                           
                                                        
-  # Hi, I'm ![test image size]<img src="https://fullpath/assets/yourgif.gif" width="400" height="790">   Guru   
+  # Hi, I'm ![test image size]<img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" width="200" height="200">   Guru   
 
                  
 
