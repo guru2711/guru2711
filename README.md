@@ -14,7 +14,7 @@
 
 
 
--  🌱I’m currently learning and developing  ...mern stack projects
+-  🌱I’m currently learning and developing  ...mern stack project
 - 💬 Ask me about React, Node.js, Mern stack
 - 📫 How to reach me:  https://guruprakash.herokuapp.com/
 - ⚡ Fun fact: ask me about Technologies, premier league ⚽, Lionel Messi  
