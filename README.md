@@ -12,7 +12,6 @@
 
 
 
-
 -  🌱Learning and developing  ...Full stack products
 - 💬 Ask me about React, Node.js, Mern stack
 - 📫 How to reach me: https://guruprakash.herokuapp.com/
