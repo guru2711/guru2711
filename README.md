@@ -37,8 +37,7 @@
  [<img alt="Github" src="https://img.shields.io/badge/resume-%231DA1F2.svg?&style=for-the-badge&logo=resume&logoColor=white" />]( https://drive.google.com/file/d/1tS9lFGRZCn1xjvrN9eDaUv55aMbzcTTM/view?usp=sharing)            
                              
         
-                             
-               :fire: My Stats :          
+### :fire: My Stats :      
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=guru2711&theme=dark&background=000000)](https://git.io/streak-stats)
 
 
@@ -53,9 +52,9 @@
 
 
 
-<p align="center"> © 2023 Guru, all rights reserved. Made with ❤️ for a better web  </p>
+<p align="center"> © 2024 Guru, all rights reserved. Made with ❤️ for a better web  </p>
 <p align="center">
-https://guruprakash.herokuapp.com/
+[https://guruprakash.herokuapp.com/](https://guruprakash.netlify.app/)
 </p>
 
 
