@@ -34,7 +34,7 @@
 
 
 # Resume
- [<img alt="Github" src="https://img.shields.io/badge/resume-%231DA1F2.svg?&style=for-the-badge&logo=resume&logoColor=white" />]( https://drive.google.com/file/d/1tS9lFGRZCn1xjvrN9eDaUv55aMbzcTTM/view?usp=sharing)            
+ [<img alt="Github" src="https://img.shields.io/badge/resume-%231DA1F2.svg?&style=for-the-badge&logo=resume&logoColor=white" />](https://drive.google.com/file/d/1IvdooHX2mXiMlGy2gHcB7VKETqwtcciQ/view?usp=sharing)            
                              
         
 ### :fire: My Stats :      
