@@ -37,8 +37,8 @@
  [<img alt="Github" src="https://img.shields.io/badge/resume-%231DA1F2.svg?&style=for-the-badge&logo=resume&logoColor=white" />](https://drive.google.com/file/d/1IvdooHX2mXiMlGy2gHcB7VKETqwtcciQ/view?usp=sharing)            
                              
         
-### :fire: My Stats :      
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=guru2711&theme=dark&background=000000)](https://git.io/streak-stats)
+### :fire: My Stats :   
+[![GitHub Streak](https://streak-stats.demolab.com/?user=guru2711)](https://git.io/streak-stats))
 
 
                              
