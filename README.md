@@ -13,12 +13,15 @@
 
 
 **Building innovative full-stack solutions**
+
 **Hit me up for insights on**:
  React mastery
  Node.js expertise
  MERN stack magic
 **Connect with me**:
+
 [Portfolio](((https://guruprakash.netlify.app/)))
+
 Fun fact: Ask me about the latest tech trends, Premier League drama, or Lionel Messi's genius on the pitch!
 
 
