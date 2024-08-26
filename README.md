@@ -12,11 +12,14 @@
 
 
 
--  🌱Learning and developing  ...Full stack products
-- 💬 Ask me about React, Node.js, Mern stack
-- 📫 How to reach me: https://guruprakash.herokuapp.com/
-- ✉️ saiguruprakash@gmail.com
-- ⚡ Fun fact: ask me about Technologies, premier league ⚽, Lionel Messi  
+**Building innovative full-stack solutions**
+**Hit me up for insights on**:
+ React mastery
+ Node.js expertise
+ MERN stack magic
+**Connect with me**:
+[Portfolio](((https://guruprakash.netlify.app/)))
+Fun fact: Ask me about the latest tech trends, Premier League drama, or Lionel Messi's genius on the pitch!
 
 
  # Tools & Technologies
