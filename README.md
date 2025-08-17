@@ -44,8 +44,8 @@ https://guruprakash.netlify.app/
                              
         
 ### :fire: My Stats :   
-[![GitHub Streak](https://streak-stats.demolab.com?user=guru2711&theme=whatsapp-dark)](https://git.io/streak-stats)
 
+[![GitHub Streak](https://streak-stats.demolab.com?user=guru2711&theme=whatsapp-dark)](https://git.io/streak-stats)
 
 
                              
